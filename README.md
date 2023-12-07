@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sebajaen
-- 👀 I’m interested in front-end developing
+- 👀 I’m interested in front-end developing, databases, and data anlytics
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me: Discord @sebastianj39
 
